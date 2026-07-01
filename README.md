@@ -50,7 +50,7 @@ The [Senecajs org](https://github.com/senecajs/) encourages open participation. 
 
 ### Running tests
 
-```sh
+```
 npm run test
 ```
 
