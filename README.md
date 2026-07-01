@@ -6,9 +6,6 @@
 [![npm version](https://img.shields.io/npm/v/@seneca/test-plugin.svg)](https://npmjs.com/package/@seneca/test-plugin)
 [![build](https://github.com/senecajs/seneca-test-plugin/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-test-plugin/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-test-plugin/badge.svg)](https://snyk.io/test/github/senecajs/seneca-test-plugin)
-[![Npm][BadgeNpm]][Npm]
-[![Travis][BadgeTravis]][Travis]
-[![Coveralls][BadgeCoveralls]][Coveralls]
 
 | ![Voxgig](https://www.voxgig.com/res/img/vgt01r.png) | This open source module is sponsored and supported by [Voxgig](https://www.voxgig.com). |
 |---|---|
@@ -44,16 +41,7 @@ If you're using this module and need help, you can:
 
 ### Inbound Messages
 
-
-
 ### Implementations
-
-[BadgeCoveralls]: https://coveralls.io/repos/senecajs/seneca-test-plugin/badge.svg?branch=master&service=github
-[BadgeNpm]: https://badge.fury.io/js/senecajs/seneca-test-plugin.svg
-[BadgeTravis]: https://travis-ci.org/senecajs/seneca-test-plugin.svg?branch=master
-[Coveralls]: https://coveralls.io/github/senecajs/seneca-test-plugin?branch=master
-[Npm]: https://www.npmjs.com/package/@seneca/test-plugin
-[Travis]: https://travis-ci.org/senecajs/seneca-test-plugin?branch=master
 
 ## Contributing
 
