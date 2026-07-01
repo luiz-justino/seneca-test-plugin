@@ -13,13 +13,13 @@
 
 ## Install
 
-```
+```sh
 $ npm install @seneca/test-plugin
 ```
 
 ## Quick Example
 
-```
+```sh
 ```
 
 ## More Examples
@@ -50,7 +50,7 @@ The [Senecajs org](https://github.com/senecajs/) encourages open participation. 
 
 ### Running tests
 
-```
+```sh
 npm run test
 ```
 
